@@ -199,7 +199,7 @@ body {
         background-color: #d9a82e;
     }
     
-    @media all and (max-width: 50cm) {
+    @media all and (max-width: 480px) {
         .nav-items {
             list-style: none;
             margin-right: 2rem;
